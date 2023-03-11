@@ -1,6 +1,6 @@
 # Health-Promotion-Project
 
-This application is based on the hopes to improve accessibility and guiding users to making an informed decision to visit the ED based on the symptoms/conditions of the client. A lot of cases of emergency room visits are unnecessary, and can be solved through visiting urgent care, family doctors, or walk-in clinics.
+This application is based on the hopes to improve accessibility and guiding users to making an informed decision to visit the ED based on symptoms/conditions. A lot of cases of emergency room visits are unnecessary, and can be solved through visiting urgent care, family doctors, or walk-in clinics.
 
 The goal of this app is to aid users who are unsure of whether or not to bring their child to the emergency room, and therefore help reduce waiting times.
 
@@ -12,6 +12,6 @@ The features of this app include:
 - Connect to urgent care line
 
 *It is important to note that this application is preliminary, and more data is required to improve the recommendations and increase the symptom choices available to the user.
-*In terms of improving upon this application, would be prompting user on vaccinations.
+*In terms of improving upon this application, would be prompting user on preventative measures such as vaccination.
 
 
