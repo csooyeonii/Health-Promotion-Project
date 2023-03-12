@@ -10,32 +10,46 @@
         android:layout_height="wrap_content"
         android:text="Are there also any of the following symptoms?"
         android:textColor="#75A798"
-        tools:layout_editor_absoluteX="61dp"
-        tools:layout_editor_absoluteY="92dp" />
+        android:textSize="30dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="73dp" />
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="398dp"
-        android:layout_height="43dp"
-        android:text="Fever"
-        tools:layout_editor_absoluteX="6dp"
-        tools:layout_editor_absoluteY="222dp" />
+        android:layout_width="341dp"
+        android:layout_height="76dp"
+        android:background="@color/aqua"
+        android:text="Working harder to breathe or breathing faster than normal"
+        android:textColor="#75A798"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="228dp" />
 
     <Button
-        android:id="@+id/button3"
-        android:layout_width="398dp"
-        android:layout_height="43dp"
-        android:text="Breathing Problems"
-        tools:layout_editor_absoluteX="6dp"
-        tools:layout_editor_absoluteY="158dp" />
+        android:id="@+id/button4"
+        android:layout_width="341dp"
+        android:layout_height="50dp"
+        android:background="@color/aqua"
+        android:text="Pale skin"
+        android:textColor="#75A798"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="377dp" />
 
     <Button
-        android:id="@+id/button2"
-        android:layout_width="398dp"
-        android:layout_height="43dp"
-        android:text="Button"
-        tools:layout_editor_absoluteX="6dp"
-        tools:layout_editor_absoluteY="306dp" />
+        android:id="@+id/button4"
+        android:layout_width="341dp"
+        android:layout_height="50dp"
+        android:background="@color/aqua"
+        android:text="Whitish or blue lips"
+        android:textColor="#75A798"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="315dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
