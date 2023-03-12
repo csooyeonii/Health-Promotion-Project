@@ -4,7 +4,31 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".SymptomsPage">
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="398dp"
+        android:layout_height="43dp"
+        android:text="Poisoning"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="398dp"
+        android:layout_height="43dp"
+        android:text="Diarrhea"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="351dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="398dp"
+        android:layout_height="43dp"
+        android:text="Vomiting"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="308dp" />
 
     <Button
         android:id="@+id/button4"
@@ -20,13 +44,24 @@
         android:layout_height="43dp"
         android:text="Breathing Problems"
         tools:layout_editor_absoluteX="6dp"
-        tools:layout_editor_absoluteY="158dp" />
+        tools:layout_editor_absoluteY="179dp" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="398dp"
         android:layout_height="43dp"
-        android:text="Button"
+        android:text="Rash"
+        android:backgroundTint=
         tools:layout_editor_absoluteX="6dp"
-        tools:layout_editor_absoluteY="306dp" />
+        tools:layout_editor_absoluteY="265dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="352dp"
+        android:layout_height="96dp"
+        android:text="Current Symptoms"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="37dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
